@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=600&color=FF1B1B&center=true&vCenter=true&width=650&lines=Red+Team+Operator;Reverse+Engineer;Vulnerability+Researcher;Adversary+Simulation;Exploit+Development;May+the+Force+be+with+you)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=600&color=FF1B1B&center=true&vCenter=true&width=650&lines=Red+Team+Operator;Reverse+Engineer;Vulnerability+Researcher;Exploit+Development;May+the+Force+be+with+you)
 
 # ⚔️ Tural Asgarov
 
@@ -16,8 +16,6 @@
 ---
 
 ## 🛡️ About Me
-
-I started on the **dark side** — learning how systems break from the inside. Now I fight from the **right side of the firewall**, using everything I learned to help teams defend what they can't afford to lose.
 
 - 🎯 **Red Team Operator** — simulating the adversary before the real one shows up
 - 🔬 **Reverse Engineer** — dissecting binaries, malware and protocols
