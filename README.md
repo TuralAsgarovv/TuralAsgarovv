@@ -4,7 +4,7 @@
 
 # ⚔️ Tural Asgarov
 
-**⚔️ Offensive Security · 🔬 Reverse Engineering · 🎯 Red Team Operations**
+**⚔️ Offensive Security · 🔬 Reverse Engineering · 🔴 Red Team Operations**
 
 *“Nobody gets in — until I break in.”*
 
@@ -17,10 +17,10 @@
 
 ## 🛡️ About Me
 
-- 🎯 **Red Team Operator** — simulating the adversary before the real one shows up
+- 🔴 **Red Team Operator** — simulating the adversary before the real one shows up
 - 🔬 **Reverse Engineer** — dissecting binaries, malware and protocols
 - 🏴‍☠️ **Exploit Developer** — turning vulnerabilities into working proof-of-concepts
-- 🛡️ **Cybersecurity Engineer** — building defenses that actually hold
+- 🕵️‍♂️ **Cybersecurity Engineer** — building defenses that actually hold
 - 📚 Currently sharpening my blade: **preparing for OSCP**
 
 ## 🧰 Arsenal
