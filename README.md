@@ -43,7 +43,7 @@ I live on the **dark side** of security — breaking systems to understand how t
 
 ## 🏴 CTF Platforms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Skywalker0.png)](https://tryhackme.com/p/Skywalker0)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Skywalker0-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Skywalker0)
 
 ## 📊 GitHub Stats
 
@@ -54,7 +54,7 @@ I live on the **dark side** of security — breaking systems to understand how t
 
 ![Streak](https://streak-stats.demolab.com?user=TuralAsgarovv&theme=radical&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TuralAsgarovv&theme=darkhub&no-frame=true&column=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TuralAsgarovv&theme=redical)
 
 </div>
 
