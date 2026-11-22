@@ -8,8 +8,6 @@
 
 *“Nobody gets in — until I break in.”*
 
-> *“I don't like sand. It's coarse and rough and irritating and it gets everywhere.”*
-> — **Anakin Skywalker**
 
 </div>
 
